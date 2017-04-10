@@ -1,0 +1,5 @@
+d504cf9 (HEAD -> master, origin/master, origin/HEAD) Added noty for flash messaging
+ffa2dc1 Merge pull request #1 from bobweeman/master
+32f87f2 Add edit and update functionality with flash messaging
+01e4653 Add Create and Read for task
+2424e5e Add form facade for TaskApp
